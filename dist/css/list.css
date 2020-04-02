@@ -1,0 +1,8 @@
+#list {
+  background-color: #cccccc;
+}
+#list li {
+  font-size: 22px;
+  color: #694;
+  list-style: none;
+}
